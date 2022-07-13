@@ -6,5 +6,13 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xlzbthxyjkoo&layout=compact&theme=material-palenight">
 </p>
 
+#
+
+<div align=center>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=xlzbthk)](https://solved.ac/xlzbthk) 
+</div>
+
+#
+
 <a href="https://www.instagram.com/yejikoo/" target="_blank"><img alt="instagram" src ="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 

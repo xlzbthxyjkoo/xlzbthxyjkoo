@@ -1,19 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=DCCBED&height=260&section=header&text=YeJi%20Koo&fontSize=70&fontColor=FFFFFF)
 
-<p>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=xlzbthxyjkoo&show_icons=true&include_all_commits=true&theme=material-palenight">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xlzbthxyjkoo&layout=compact&theme=material-palenight">
-</p>
-
-#
 <div align=center>
-  
-<h3>:space_invader: BOJ :space_invader:</h3>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=xlzbthk)](https://solved.ac/xlzbthk) 
-
-# 
 <h3>:paperclip: Tech Stack :paperclip:</h3>
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=OpenJDK&logoColor=white"/>
 <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=C&logoColor=white"/>
@@ -25,6 +13,18 @@
 <img alt="ORACLE" src ="https://img.shields.io/badge/ORACLE-F80000.svg?&style=flat-square&logo=ORACLE&logoColor=white"/>
 <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white"/>
 <img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933.svg?&style=flat-square&logo=Node.js&logoColor=white"/>
+
+<p>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=xlzbthxyjkoo&show_icons=true&include_all_commits=true&theme=material-palenight">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xlzbthxyjkoo&layout=compact&theme=material-palenight">
+</p>
+
+#
+  
+<h3>:space_invader: BOJ :space_invader:</h3>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=xlzbthk)](https://solved.ac/xlzbthk) 
+
 
 #
 <h3>:purple_heart: me :purple_heart:</h3>

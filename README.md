@@ -5,8 +5,8 @@
 
 <div align=center>
   
-###Hi there, I'm YeJi:wave:
-####Welcom to my GitHub profile! I'm a student majoring in computer science. Thx for visiting :)
+<h2>Hi there, I'm YeJi:wave:</h2>
+<h4>Welcom to my GitHub profile! I'm a student majoring in computer science. Thx for visiting :) </h4>
 <img width="100%" src="https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif"/>
 
   

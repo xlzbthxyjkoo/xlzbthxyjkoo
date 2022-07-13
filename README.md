@@ -14,11 +14,11 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=xlzbthk)](https://solved.ac/xlzbthk) 
 
  #
-<h3>me</h3>
+<h3>:purple_heart: me :purple_heart:</h3>
   
 <a href="https://www.instagram.com/yejikoo/" target="_blank"><img alt="instagram" src ="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://blog.naver.com/happyyj01" target="_blank"><img alt="Naver" src ="https://img.shields.io/badge/blog-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=white"/></a>
-<a href="https://blog.naver.com/happyyj01" target="_blank"><img alt="github" src ="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/xlzbthxyjkoo" target="_blank"><img alt="github" src ="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 

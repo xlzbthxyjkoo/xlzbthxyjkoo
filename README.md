@@ -8,7 +8,7 @@
 <h3>Hi I'm YeJi:wave:</h3>
 <h4>:thought_balloon:Welcom to my GitHub profile! I'm a student majoring in computer science. Thx for visiting :) </h4>
   
-<img width="100%" src="https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif"/>
+<img width="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif"/>
 
   
 <h3>:wrench: Tech Stack :wrench:</h3>

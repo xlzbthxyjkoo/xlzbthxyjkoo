@@ -16,6 +16,7 @@
 <br/><br/>
   
 #
+<h3>:chart_with_upwards_trend: GitHub Stats :chart_with_upwards_trend:	</h3>
   
 <p>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=xlzbthxyjkoo&show_icons=true&include_all_commits=true&theme=material-palenight">

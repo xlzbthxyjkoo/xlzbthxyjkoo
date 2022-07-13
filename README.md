@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=DCCBED&height=130&section=header&text=YeJi%20Koo&desc=Welcome%20to%20my%20GitHub&fontSize=35&animation=twinkling&fontAlignY=17&fontAlign=80&descSize=20&descAlign=80&descAlignY=35&rotate=9)
 
 <div align=center>
-<img width="100%" src="https://user-images.githubusercontent.com/82144134/178755668-3d7408cd-ab1f-478c-90e0-8eb1cbcf5271.png"/>
+<img width="100%" src="https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif"/>
 
   
 <h3>:wrench: Tech Stack :wrench:</h3>

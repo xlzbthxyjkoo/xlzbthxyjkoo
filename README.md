@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=DCCBED&height=200&section=header&text=YeJi%20Koo&desc=Welcome%20to%20my%20GitHub&fontSize=40&animation=twinkling&fontAlignY=25&fontAlign=75&descSize=20&descAlign=75&descAlignY=41&rotate=13)
+![header](https://capsule-render.vercel.app/api?type=slice&color=DCCBED&height=130&section=header&text=YeJi%20Koo&desc=Welcome%20to%20my%20GitHub&fontSize=35&animation=twinkling&fontAlignY=17&fontAlign=80&descSize=20&descAlign=80&descAlignY=35&rotate=9)
 
 <div align=center>
 <h3>:wrench: Tech Stack :wrench:</h3>

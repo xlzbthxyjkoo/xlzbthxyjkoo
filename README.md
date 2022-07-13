@@ -25,9 +25,6 @@
 
 #
   
-<h3>:space_invader: BOJ :space_invader:</h3>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xlzbthk)](https://solved.ac/xlzbthk) 
 
 
 #
@@ -39,3 +36,6 @@
 
 </div>
 
+<h3>:space_invader: BOJ :space_invader:</h3>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xlzbthk)](https://solved.ac/xlzbthk) 

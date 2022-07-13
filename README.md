@@ -9,7 +9,7 @@
 #
 
 <div align=center>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=xlzbthk)](https://solved.ac/xlzbthk) 
+![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=xlzbthk)](https://solved.ac/xlzbthk) 
 </div>
 
 #

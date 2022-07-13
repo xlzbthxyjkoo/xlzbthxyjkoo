@@ -1,8 +1,8 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=DCCBED&height=260&section=header&text=YeJi%20Koo&fontSize=70&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=DCCBED&height=260&section=header&text=Hi there,%20I'm YeJi:wave:&fontSize=70&fontColor=FFFFFF)
 
 <div align=center>
-<h3>:paperclip: Tech Stack :paperclip:</h3>
+<h3>:wrench: Tech Stack :wrench:</h3>
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=OpenJDK&logoColor=white"/>
 <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=C&logoColor=white"/>
 <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=flat-square&logo=C%2B%2B&logoColor=white"/>
@@ -31,7 +31,7 @@
 
 
 #
-<h3>:purple_heart: me :purple_heart:</h3>
+<h3>:earth_asia: Find me around the web :earth_asia:</h3>
   
 <a href="https://www.instagram.com/yejikoo/" target="_blank"><img alt="instagram" src ="https://img.shields.io/badge/instagram-E4405F.svg?&style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="https://blog.naver.com/happyyj01" target="_blank"><img alt="Naver" src ="https://img.shields.io/badge/blog-03C75A.svg?&style=flat-square&logo=Naver&logoColor=white"/></a>

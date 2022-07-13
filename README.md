@@ -1,5 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=slice&color=DCCBED&height=300&section=header&text=capsule%20render&fontSize=90&fontColor=FFFFFF)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=DCCBED&height=260&section=header&text=Hi there,%20I'm YeJi:wave:&fontSize=70&fontColor=FFFFFF)
 
 <div align=center>
 <h3>:wrench: Tech Stack :wrench:</h3>

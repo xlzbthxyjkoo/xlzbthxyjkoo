@@ -23,13 +23,11 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xlzbthxyjkoo&layout=compact&theme=material-palenight">
 </p>
 
-<br/><br/>
-
 #
   
 <h3>:space_invader: BOJ :space_invader:</h3>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=xlzbthk)](https://solved.ac/xlzbthk) 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xlzbthk)](https://solved.ac/xlzbthk) 
 
 
 #

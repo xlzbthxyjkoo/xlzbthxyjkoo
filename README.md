@@ -7,9 +7,12 @@
 </p>
 
 #
+<div align=center>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=xlzbthk)](https://solved.ac/xlzbthk) 
-</div>
 
 <a href="https://www.instagram.com/yejikoo/" target="_blank"><img alt="instagram" src ="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://blog.naver.com/happyyj01" target="_blank"><img alt="naver" src ="https://img.shields.io/badge/naver-03C75A.svg?&style=for-the-badge&logo=blog&logoColor=white"/></a>
+
+</div>
 

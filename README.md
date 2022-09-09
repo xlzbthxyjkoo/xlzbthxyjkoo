@@ -35,7 +35,7 @@
 
 #
   
-<h3>:seedling: BOJ :seedling:</h3>
+<h3>🗻 BOJ 🗻</h3>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xlzbthk)](https://solved.ac/xlzbthk) 
 

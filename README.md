@@ -6,7 +6,7 @@
 <div align=center>
   
 <h3>Hi I'm YeJi:wave:</h3>
-<h4>:thought_balloon:Welcom to my GitHub profile! I'm a student majoring in computer science. TY for visiting :) </h4>
+<h4>Welcom to my GitHub profile! I'm a student majoring in computer science. TY for visiting :) </h4>
   
 <img width=100% src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif"/>
 

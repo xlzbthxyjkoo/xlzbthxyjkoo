@@ -47,7 +47,7 @@
 <a href="https://www.instagram.com/yejikoo/" target="_blank"><img alt="instagram" src ="https://img.shields.io/badge/instagram-E4405F.svg?&style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="https://blog.naver.com/happyyj01" target="_blank"><img alt="Naver" src ="https://img.shields.io/badge/blog-03C75A.svg?&style=flat-square&logo=Naver&logoColor=white"/></a>
 <a href="https://github.com/xlzbthxyjkoo" target="_blank"><img alt="github" src ="https://img.shields.io/badge/github-181717.svg?&style=flat-square&logo=github&logoColor=white"/></a>
-<!-- <a href="https://velog.io/@xlzbthxyjkoo" target="_blank"><img alt="Velog" src ="https://img.shields.io/badge/Velog-20C997.svg?&style=flat-square&logo=Velog&logoColor=white"/></a> -->
+<a href="https://velog.io/@xlzbthxyjkoo" target="_blank"><img alt="Velog" src ="https://img.shields.io/badge/Velog-20C997.svg?&style=flat-square&logo=Velog&logoColor=white"/></a>
 
 </div>
 

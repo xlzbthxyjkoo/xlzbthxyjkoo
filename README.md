@@ -6,7 +6,7 @@
 <div align=center>
   
 <h3>Hi I'm YeJi:wave:</h3>
-<h4>Welcom to my GitHub profile! I'm a student majoring in computer science. Thank U for visiting :) </h4>
+<h4>Welcom to my GitHub profile! I'm a student majoring in computer science. Thank u for visiting :) </h4>
   
 <img width=100% src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif"/>
 
@@ -19,6 +19,7 @@
   <br/>
 <img alt="javascript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white"/>
 <img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933.svg?&style=flat-square&logo=Node.js&logoColor=white"/>
+  <img alt="react" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=flat-square&logo=React&logoColor=white"/>
 <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white"/>
 <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat-square&logo=CSS3&logoColor=white"/>      
   <br/>

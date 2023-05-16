@@ -11,7 +11,7 @@
 <img width=100% src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif"/>
 
   
-<h3>:wrench: Tech Stack :wrench:</h3>
+<h3>:wrench: Tech Stacks :wrench:</h3>
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=OpenJDK&logoColor=white"/>
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>   
 <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=C&logoColor=white"/>

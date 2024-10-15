@@ -1,7 +1,7 @@
-<div align=center>
+<div>
 <h3>Hi I'm Koo :wave:</h3>
   
-<img width=100% src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif"/>
+<!-- <img width=100% src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif"/> -->
   
 <h3>:wrench: Have worked in: </h3>
 
@@ -56,24 +56,24 @@
 
 
 
-<br/><br/>
-  
+<br/>
+<!--
 #
 <h3>:chart_with_upwards_trend: GitHub Stats :chart_with_upwards_trend:	</h3>
   
 <p>
-  <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=xlzbthxyjkoo&show_icons=true&include_all_commits=true&theme=buefy">  -->
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=xlzbthxyjkoo&show_icons=true&include_all_commits=true&theme=buefy">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xlzbthxyjkoo&layout=compact&theme=buefy">
 </p>
 
 #
-  
+-->
 <!-- <h3>🗻 BOJ 🗻</h3>  -->
 
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xlzbthk)](https://solved.ac/xlzbthk) -->
 
 
-<h3>:earth_asia: Find me around the web :earth_asia:</h3>
+<h3>:earth_asia: Find me around the web:</h3>
   
 <a href="https://www.instagram.com/yejikoo/" target="_blank"><img alt="instagram" src ="https://img.shields.io/badge/instagram-E4405F.svg?&style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="https://blog.naver.com/repository_" target="_blank"><img alt="Naver" src ="https://img.shields.io/badge/blog-03C75A.svg?&style=flat-square&logo=Naver&logoColor=white"/></a>

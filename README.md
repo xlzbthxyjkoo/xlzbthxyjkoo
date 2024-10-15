@@ -1,7 +1,10 @@
 <div>
-<h3>Hi I'm Koo :wave:</h3>
-  
+  <div align=center>
+    <h3>Hi I'm Koo :wave:</h3>
+    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxlzbthxyjkoo&count_bg=%23F2D7D9&title_bg=%23D3CEDF&icon=baidu.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 <!-- <img width=100% src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif"/> -->
+    
+  </div>
   
 <h3>:wrench: Have worked in: </h3>
 
